@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @euphi967
+- 👀 I’m interested in cloud development and symphonic wind band music
+- 🌱 I’m currently learning Angular
+- 💞️ I’m looking to collaborate on challenging projects
+- 📫 Feel free to reach me on GitHub
